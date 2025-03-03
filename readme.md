@@ -15,7 +15,7 @@ Calculadora interactiva en terminal.. Soporta operaciones básicas como suma, re
 
 ## Instalación:
 1. Clona el repositorio:
-git clone https://github.com/tu_usuario/calculadora-python.git
+git clone https://github.com/dylan-suttonc/simpleCalculator.git
 2. Accede al directorio:
 cd calculadora-python
 3. Instala dependencias:
