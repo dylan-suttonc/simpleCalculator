@@ -1,4 +1,4 @@
-# Calculadora con Rich
+# Calculadora Simple
 
 Calculadora interactiva en terminal.. Soporta operaciones básicas como suma, resta, multiplicación, división y suma avanzada de N números.
 
